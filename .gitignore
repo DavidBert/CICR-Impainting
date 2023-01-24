@@ -136,3 +136,4 @@ pistesRecherche/*
 modelSave/bg
 cicr-docker.zip
 test.ipynb
+*.tar
